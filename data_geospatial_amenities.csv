@@ -1,0 +1,74 @@
+neighborhood,latitude,longitude,num_schools,num_hospitals,num_parks,num_metro_stations,nearest_station,distance_to_station_km
+Adarsh Nagar,28.7161,77.1706,19,7,48,6,Jahangirpuri,1.85
+Alaknanda,28.5255,77.2471,0,0,0,0,Okhla Phase-2,2.44
+Alipur,28.7973,77.1331,0,0,0,0,Alipur,2.78
+Anand Vihar,28.6465,77.3122,3,4,31,5,Anand Vihar,0.37
+Ashok Vihar,28.6917,77.1742,0,0,0,0,Ashok Vihar,0.83
+Badarpur,28.5034,77.3047,0,0,0,0,Dr. Karni Singh Shooting Range,4.02
+Bali Nagar,28.6534,77.1306,11,5,19,7,Shadipur,1.65
+Bawana,28.7946,77.0396,0,0,0,0,Bawana,2.33
+Chanakyapuri,28.5919,77.1852,0,0,0,0,R.K. Puram,3.19
+Chandni Chowk,28.6606,77.2273,4,2,11,18,North Campus (DU),3.67
+Chhattarpur,28.5038,77.1818,0,0,0,0,Sri Aurobindo Marg,3.16
+Civil Lines,28.6814,77.2229,2,3,1,6,North Campus (DU),1.81
+Connaught Place,28.6315,77.2167,6,6,14,27,Mandir Marg,1.84
+Daryaganj,28.643,77.2407,10,14,15,9,ITO,1.61
+Defence Colony,28.5724,77.2334,19,7,124,5,Jawaharlal Nehru Stadium,0.87
+Delhi Cantt,28.5961,77.1587,0,0,0,0,Pusa (IMD),4.44
+Dilshad Garden,28.6844,77.3197,7,7,59,2,Vivek Vihar,1.41
+Dwarka,28.5823,77.05,5,3,29,4,Dwarka Sector-8,2.48
+East of Kailash,28.5562,77.2464,11,7,58,10,Nehru Nagar,1.36
+Gandhi Nagar,28.6652,77.2711,0,0,0,0,IHBAS (Dilshad Garden),3.54
+Geeta Colony,28.6535,77.2691,0,0,0,0,Patparganj,3.75
+Greater Kailash,28.5482,77.2326,7,6,51,11,Siri Fort,1.65
+Green Park,28.5589,77.2028,7,10,63,7,Siri Fort,1.59
+Hari Nagar,28.6277,77.1044,0,0,0,0,Pusa (DPCC),4.3
+Hauz Khas,28.5494,77.2001,9,4,55,9,Siri Fort,1.55
+IP Extension,28.6293,77.3005,22,7,76,4,Patparganj,1.44
+Janakpuri,28.6219,77.0878,6,8,30,5,NSIT Dwarka,5.59
+Jangpura,28.5828,77.2435,12,1,64,6,Jawaharlal Nehru Stadium,0.99
+Kalkaji,28.5414,77.2515,14,7,86,13,Okhla Phase-2,2.27
+Kamla Nagar,28.6806,77.2023,0,0,0,0,North Campus (DU),0.86
+Kanjhawala,28.7196,77.0016,0,0,0,0,Bawana,7.92
+Karawal Nagar,28.7302,77.2741,0,0,0,0,Sonia Vihar,3.25
+Karol Bagh,28.655,77.1888,0,0,0,0,Mandir Marg,2.28
+Kashmere Gate,28.6675,77.2285,3,2,7,11,North Campus (DU),3.15
+Kirti Nagar,28.6496,77.1422,3,5,2,3,Shadipur,0.54
+Lajpat Nagar,28.5677,77.2433,15,9,139,8,Nehru Nagar,0.7
+Laxmi Nagar,28.6305,77.2773,15,4,31,11,Patparganj,1.23
+Lodhi Colony,28.5878,77.2215,10,1,40,5,Lodhi Road,0.72
+Malviya Nagar,28.5362,77.2114,18,14,91,10,Siri Fort,1.63
+Mangolpuri,28.6946,77.0722,0,0,0,0,Mundka,1.18
+Mayur Vihar,28.6046,77.2911,19,4,36,5,Patparganj,2.15
+Mehrauli,28.5204,77.1804,8,5,17,1,Sri Aurobindo Marg,1.54
+Model Town,28.7027,77.1939,3,4,27,4,Ashok Vihar,1.45
+Moti Bagh,28.5825,77.1683,9,5,29,9,R.K. Puram,2.81
+Mukherjee Nagar,28.7093,77.2144,0,0,0,0,Burari Crossing,2.22
+Munirka,28.5559,77.1702,5,1,26,8,R.K. Puram,1.82
+Najafgarh,28.6092,76.9798,13,17,9,6,Najafgarh,0.85
+Narela,28.855,77.091,0,0,0,0,Narela,0.99
+Nehru Place,28.5492,77.2517,13,6,75,20,Nehru Nagar,2.08
+Okhla,28.5649,77.285,3,6,10,2,CRRI Mathura Road,1.88
+Palam,28.5866,77.085,9,8,17,3,Dwarka Sector-8,2.15
+Paschim Vihar,28.6685,77.0931,0,0,0,0,Punjabi Bagh,2.31
+Patel Nagar,28.6508,77.1652,10,2,24,6,Shadipur,1.75
+Pitampura,28.7033,77.1323,20,7,61,5,Wazirpur,3.26
+Preet Vihar,28.6387,77.2974,19,5,72,4,Patparganj,1.94
+Punjabi Bagh,28.6675,77.1259,4,8,25,1,Punjabi Bagh,0.9
+Rajouri Garden,28.6415,77.1209,8,3,14,6,Pusa (DPCC),2.49
+RK Puram,28.5653,77.1747,7,2,18,4,R.K. Puram,1.22
+Rohini,28.7041,77.1025,0,0,0,0,Mundka,3.32
+Safdarjung,28.5619,77.1969,7,9,52,7,R.K. Puram,0.99
+Saket,28.5246,77.2066,14,8,64,9,Sri Aurobindo Marg,1.77
+Sarita Vihar,28.529,77.3027,0,0,0,0,Okhla Phase-2,3.08
+Shahdara,28.6732,77.286,7,5,22,2,IHBAS (Dilshad Garden),1.84
+Shalimar Bagh,28.7175,77.1528,4,5,32,3,Wazirpur,2.32
+South Extension,28.5701,77.2215,9,4,41,5,Jawaharlal Nehru Stadium,1.64
+Sunder Nagar,28.6015,77.2378,0,0,0,0,Major Dhyan Chand Stadium,1.09
+Tilak Nagar,28.6365,77.0937,8,2,31,2,Punjabi Bagh,4.18
+Uttam Nagar,28.6213,77.056,9,11,8,5,NSIT Dwarka,2.67
+Vasant Kunj,28.5293,77.1519,0,0,0,0,Sri Aurobindo Marg,3.76
+Vasant Vihar,28.5606,77.1627,0,0,0,0,R.K. Puram,2.39
+Vikas Puri,28.6346,77.0697,20,4,82,3,NSIT Dwarka,4.61
+Vivek Vihar,28.6644,77.3117,0,0,0,0,Vivek Vihar,0.94
+Yamuna Vihar,28.6931,77.2694,1,3,66,1,Sonia Vihar,2.74

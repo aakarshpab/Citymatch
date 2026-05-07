@@ -1,0 +1,950 @@
+Run_ID,Slot,Timestamp,Neighborhood,Traffic_Index,Current_Speed_kmh,Free_Flow_Speed_kmh,Congestion_Confidence
+1,Afternoon,2026-03-13 12:53,Adarsh Nagar,3.46,17,26,0.97883
+1,Afternoon,2026-03-13 12:53,Alaknanda,3.03,23,33,1.0
+1,Afternoon,2026-03-13 12:53,Alipur,2.73,16,22,0.843888
+1,Afternoon,2026-03-13 12:53,Anand Vihar,0.0,39,39,1.0
+1,Afternoon,2026-03-13 12:53,Ashok Vihar,2.58,23,31,0.998921
+1,Afternoon,2026-03-13 12:53,Badarpur,2.06,27,34,0.992109
+1,Afternoon,2026-03-13 12:53,Bali Nagar,3.33,20,30,0.999142
+1,Afternoon,2026-03-13 12:53,Bawana,0.0,36,36,1.0
+1,Afternoon,2026-03-13 12:53,Chanakyapuri,2.05,31,39,0.984599
+1,Afternoon,2026-03-13 12:53,Chandni Chowk,0.0,18,18,1.0
+1,Afternoon,2026-03-13 12:53,Chhattarpur,0.0,33,33,1.0
+1,Afternoon,2026-03-13 12:53,Civil Lines,1.76,28,34,1.0
+1,Afternoon,2026-03-13 12:53,Connaught Place,0.0,24,24,1.0
+1,Afternoon,2026-03-13 12:53,Daryaganj,3.57,18,28,0.99636
+1,Afternoon,2026-03-13 12:53,Defence Colony,3.75,10,16,0.92468
+1,Afternoon,2026-03-13 12:53,Delhi Cantt,1.75,33,40,1.0
+1,Afternoon,2026-03-13 12:53,Dilshad Garden,2.69,19,26,0.95
+1,Afternoon,2026-03-13 12:53,Dwarka,2.5,24,32,0.999445
+1,Afternoon,2026-03-13 12:53,East of Kailash,2.61,17,23,1.0
+1,Afternoon,2026-03-13 12:53,Gandhi Nagar,2.11,30,38,1.0
+1,Afternoon,2026-03-13 12:53,Geeta Colony,1.88,39,48,1.0
+1,Afternoon,2026-03-13 12:53,Greater Kailash,4.07,16,27,1.0
+1,Afternoon,2026-03-13 12:53,Green Park,2.8,18,25,1.0
+1,Afternoon,2026-03-13 12:53,Hari Nagar,1.95,33,41,1.0
+1,Afternoon,2026-03-13 12:53,Hauz Khas,3.44,21,32,0.998986
+1,Afternoon,2026-03-13 12:53,IP Extension,0.0,23,23,1.0
+1,Afternoon,2026-03-13 12:53,Janakpuri,0.0,37,37,1.0
+1,Afternoon,2026-03-13 12:53,Jangpura,0.0,46,46,1.0
+1,Afternoon,2026-03-13 12:53,Kalkaji,7.31,7,26,1.0
+1,Afternoon,2026-03-13 12:53,Kamla Nagar,2.73,16,22,0.991361
+1,Afternoon,2026-03-13 12:53,Kanjhawala,1.63,36,43,0.942505
+1,Afternoon,2026-03-13 12:53,Karawal Nagar,2.63,14,19,0.842277
+1,Afternoon,2026-03-13 12:53,Karol Bagh,2.42,25,33,1.0
+1,Afternoon,2026-03-13 12:53,Kashmere Gate,1.28,34,39,1.0
+1,Afternoon,2026-03-13 12:53,Kirti Nagar,3.03,23,33,1.0
+1,Afternoon,2026-03-13 12:53,Lajpat Nagar,0.0,28,28,1.0
+1,Afternoon,2026-03-13 12:53,Laxmi Nagar,1.94,29,36,1.0
+1,Afternoon,2026-03-13 12:53,Lodhi Colony,2.33,23,30,0.986771
+1,Afternoon,2026-03-13 12:53,Malviya Nagar,1.92,21,26,1.0
+1,Afternoon,2026-03-13 12:53,Mangolpuri,2.08,19,24,0.966779
+1,Afternoon,2026-03-13 12:53,Mayur Vihar,1.88,39,48,1.0
+1,Afternoon,2026-03-13 12:53,Mehrauli,2.63,28,38,1.0
+1,Afternoon,2026-03-13 12:53,Model Town,2.57,26,35,1.0
+1,Afternoon,2026-03-13 12:53,Moti Bagh,3.33,28,42,1.0
+1,Afternoon,2026-03-13 12:53,Mukherjee Nagar,1.94,25,31,1.0
+1,Afternoon,2026-03-13 12:53,Munirka,2.43,28,37,1.0
+1,Afternoon,2026-03-13 12:53,Najafgarh,0.0,37,37,1.0
+1,Afternoon,2026-03-13 12:53,Narela,1.61,26,31,0.995294
+1,Afternoon,2026-03-13 12:53,Nehru Place,3.57,18,28,1.0
+1,Afternoon,2026-03-13 12:53,Okhla,1.48,46,54,1.0
+1,Afternoon,2026-03-13 12:53,Palam,0.0,37,37,1.0
+1,Afternoon,2026-03-13 12:53,Paschim Vihar,0.0,51,51,1.0
+1,Afternoon,2026-03-13 12:53,Patel Nagar,2.97,26,37,0.999602
+1,Afternoon,2026-03-13 12:53,Pitampura,2.82,28,39,1.0
+1,Afternoon,2026-03-13 12:53,Preet Vihar,2.4,19,25,0.99
+1,Afternoon,2026-03-13 12:53,Punjabi Bagh,2.45,37,49,1.0
+1,Afternoon,2026-03-13 12:53,Rajouri Garden,3.33,20,30,1.0
+1,Afternoon,2026-03-13 12:53,RK Puram,0.0,28,28,1.0
+1,Afternoon,2026-03-13 12:53,Rohini,4.67,16,30,0.996357
+1,Afternoon,2026-03-13 12:53,Safdarjung,2.4,19,25,1.0
+1,Afternoon,2026-03-13 12:53,Saket,4.35,13,23,1.0
+1,Afternoon,2026-03-13 12:53,Sarita Vihar,0.0,41,41,1.0
+1,Afternoon,2026-03-13 12:53,Shahdara,2.35,26,34,0.997388
+1,Afternoon,2026-03-13 12:53,Shalimar Bagh,2.31,20,26,1.0
+1,Afternoon,2026-03-13 12:53,South Extension,2.56,32,43,1.0
+1,Afternoon,2026-03-13 12:53,Sunder Nagar,2.11,30,38,1.0
+1,Afternoon,2026-03-13 12:53,Tilak Nagar,3.0,21,30,0.999353
+1,Afternoon,2026-03-13 12:53,Uttam Nagar,3.33,20,30,1.0
+1,Afternoon,2026-03-13 12:53,Vasant Kunj,1.88,26,32,0.975653
+1,Afternoon,2026-03-13 12:53,Vasant Vihar,0.0,55,55,1.0
+1,Afternoon,2026-03-13 12:53,Vikas Puri,2.4,19,25,1.0
+1,Afternoon,2026-03-13 12:53,Vivek Vihar,0.0,29,29,1.0
+1,Afternoon,2026-03-13 12:53,Yamuna Vihar,1.18,15,17,0.950714
+2,Evening_Peak,2026-03-13 17:56,Adarsh Nagar,3.46,17,26,0.988877
+2,Evening_Peak,2026-03-13 17:56,Alaknanda,2.12,26,33,1.0
+2,Evening_Peak,2026-03-13 17:56,Alipur,1.36,19,22,0.96
+2,Evening_Peak,2026-03-13 17:56,Anand Vihar,1.25,35,40,1.0
+2,Evening_Peak,2026-03-13 17:56,Ashok Vihar,2.67,22,30,1.0
+2,Evening_Peak,2026-03-13 17:56,Badarpur,0.0,35,35,1.0
+2,Evening_Peak,2026-03-13 17:56,Bali Nagar,3.67,19,30,1.0
+2,Evening_Peak,2026-03-13 17:56,Bawana,0.0,36,36,1.0
+2,Evening_Peak,2026-03-13 17:56,Chanakyapuri,1.62,31,37,0.966548
+2,Evening_Peak,2026-03-13 17:56,Chandni Chowk,0.0,18,18,1.0
+2,Evening_Peak,2026-03-13 17:56,Chhattarpur,1.76,28,34,1.0
+2,Evening_Peak,2026-03-13 17:56,Civil Lines,3.24,23,34,1.0
+2,Evening_Peak,2026-03-13 17:56,Connaught Place,3.48,15,23,1.0
+2,Evening_Peak,2026-03-13 17:56,Daryaganj,4.64,15,28,0.993069
+2,Evening_Peak,2026-03-13 17:56,Defence Colony,4.38,9,16,0.905361
+2,Evening_Peak,2026-03-13 17:56,Delhi Cantt,0.0,40,40,1.0
+2,Evening_Peak,2026-03-13 17:56,Dilshad Garden,2.22,21,27,0.980228
+2,Evening_Peak,2026-03-13 17:56,Dwarka,1.82,27,33,1.0
+2,Evening_Peak,2026-03-13 17:56,East of Kailash,2.17,18,23,1.0
+2,Evening_Peak,2026-03-13 17:56,Gandhi Nagar,2.16,29,37,1.0
+2,Evening_Peak,2026-03-13 17:56,Geeta Colony,2.5,36,48,1.0
+2,Evening_Peak,2026-03-13 17:56,Greater Kailash,3.79,18,29,1.0
+2,Evening_Peak,2026-03-13 17:56,Green Park,3.6,16,25,1.0
+2,Evening_Peak,2026-03-13 17:56,Hari Nagar,0.0,40,40,1.0
+2,Evening_Peak,2026-03-13 17:56,Hauz Khas,2.81,23,32,0.999324
+2,Evening_Peak,2026-03-13 17:56,IP Extension,0.91,20,22,0.997028
+2,Evening_Peak,2026-03-13 17:56,Janakpuri,2.78,26,36,1.0
+2,Evening_Peak,2026-03-13 17:56,Jangpura,0.0,46,46,1.0
+2,Evening_Peak,2026-03-13 17:56,Kalkaji,0.0,28,28,1.0
+2,Evening_Peak,2026-03-13 17:56,Kamla Nagar,3.64,14,22,0.981812
+2,Evening_Peak,2026-03-13 17:56,Kanjhawala,0.93,39,43,0.971069
+2,Evening_Peak,2026-03-13 17:56,Karawal Nagar,3.0,14,20,0.823186
+2,Evening_Peak,2026-03-13 17:56,Karol Bagh,2.94,24,34,1.0
+2,Evening_Peak,2026-03-13 17:56,Kashmere Gate,2.11,30,38,1.0
+2,Evening_Peak,2026-03-13 17:56,Kirti Nagar,4.12,20,34,1.0
+2,Evening_Peak,2026-03-13 17:56,Lajpat Nagar,2.96,19,27,1.0
+2,Evening_Peak,2026-03-13 17:56,Laxmi Nagar,3.06,25,36,1.0
+2,Evening_Peak,2026-03-13 17:56,Lodhi Colony,2.07,23,29,0.992098
+2,Evening_Peak,2026-03-13 17:56,Malviya Nagar,4.07,16,27,1.0
+2,Evening_Peak,2026-03-13 17:56,Mangolpuri,2.92,17,24,0.97824
+2,Evening_Peak,2026-03-13 17:56,Mayur Vihar,2.71,35,48,1.0
+2,Evening_Peak,2026-03-13 17:56,Mehrauli,2.89,27,38,1.0
+2,Evening_Peak,2026-03-13 17:56,Model Town,3.61,23,36,1.0
+2,Evening_Peak,2026-03-13 17:56,Moti Bagh,4.39,23,41,1.0
+2,Evening_Peak,2026-03-13 17:56,Mukherjee Nagar,3.23,21,31,1.0
+2,Evening_Peak,2026-03-13 17:56,Munirka,1.84,31,38,1.0
+2,Evening_Peak,2026-03-13 17:56,Najafgarh,1.62,31,37,1.0
+2,Evening_Peak,2026-03-13 17:56,Narela,3.44,21,32,0.991463
+2,Evening_Peak,2026-03-13 17:56,Nehru Place,4.64,15,28,1.0
+2,Evening_Peak,2026-03-13 17:56,Okhla,1.7,44,53,1.0
+2,Evening_Peak,2026-03-13 17:56,Palam,1.89,30,37,1.0
+2,Evening_Peak,2026-03-13 17:56,Paschim Vihar,0.0,51,51,1.0
+2,Evening_Peak,2026-03-13 17:56,Patel Nagar,2.7,27,37,1.0
+2,Evening_Peak,2026-03-13 17:56,Pitampura,2.56,29,39,1.0
+2,Evening_Peak,2026-03-13 17:56,Preet Vihar,2.0,20,25,1.0
+2,Evening_Peak,2026-03-13 17:56,Punjabi Bagh,0.0,50,50,1.0
+2,Evening_Peak,2026-03-13 17:56,Rajouri Garden,3.23,21,31,1.0
+2,Evening_Peak,2026-03-13 17:56,RK Puram,2.14,22,28,1.0
+2,Evening_Peak,2026-03-13 17:56,Rohini,3.67,19,30,0.999314
+2,Evening_Peak,2026-03-13 17:56,Safdarjung,2.0,20,25,0.998751
+2,Evening_Peak,2026-03-13 17:56,Saket,1.74,19,23,1.0
+2,Evening_Peak,2026-03-13 17:56,Sarita Vihar,0.0,41,41,1.0
+2,Evening_Peak,2026-03-13 17:56,Shahdara,2.0,28,35,0.999298
+2,Evening_Peak,2026-03-13 17:56,Shalimar Bagh,2.59,20,27,1.0
+2,Evening_Peak,2026-03-13 17:56,South Extension,6.98,13,43,1.0
+2,Evening_Peak,2026-03-13 17:56,Sunder Nagar,2.63,28,38,1.0
+2,Evening_Peak,2026-03-13 17:56,Tilak Nagar,3.1,20,29,1.0
+2,Evening_Peak,2026-03-13 17:56,Uttam Nagar,3.23,21,31,1.0
+2,Evening_Peak,2026-03-13 17:56,Vasant Kunj,1.88,26,32,0.975653
+2,Evening_Peak,2026-03-13 17:56,Vasant Vihar,4.07,32,54,1.0
+2,Evening_Peak,2026-03-13 17:56,Vikas Puri,2.4,19,25,1.0
+2,Evening_Peak,2026-03-13 17:56,Vivek Vihar,0.0,29,29,1.0
+2,Evening_Peak,2026-03-13 17:56,Yamuna Vihar,3.89,11,18,0.941245
+3,Night,2026-03-13 22:58,Adarsh Nagar,0.0,26,26,1.0
+3,Night,2026-03-13 22:58,Alaknanda,0.0,33,33,1.0
+3,Night,2026-03-13 22:58,Alipur,0.0,23,23,1.0
+3,Night,2026-03-13 22:58,Anand Vihar,0.0,39,39,1.0
+3,Night,2026-03-13 22:58,Ashok Vihar,0.97,28,31,0.99489
+3,Night,2026-03-13 22:58,Badarpur,0.0,35,35,1.0
+3,Night,2026-03-13 22:58,Bali Nagar,0.0,29,29,1.0
+3,Night,2026-03-13 22:58,Bawana,0.0,36,36,1.0
+3,Night,2026-03-13 22:58,Chanakyapuri,0.0,39,39,1.0
+3,Night,2026-03-13 22:58,Chandni Chowk,0.0,18,18,1.0
+3,Night,2026-03-13 22:58,Chhattarpur,0.0,33,33,1.0
+3,Night,2026-03-13 22:58,Civil Lines,0.0,35,35,1.0
+3,Night,2026-03-13 22:58,Connaught Place,1.74,19,23,1.0
+3,Night,2026-03-13 22:58,Daryaganj,1.85,22,27,0.989072
+3,Night,2026-03-13 22:58,Defence Colony,0.0,16,16,1.0
+3,Night,2026-03-13 22:58,Delhi Cantt,0.0,40,40,1.0
+3,Night,2026-03-13 22:58,Dilshad Garden,0.0,27,27,1.0
+3,Night,2026-03-13 22:58,Dwarka,0.0,32,32,1.0
+3,Night,2026-03-13 22:58,East of Kailash,0.0,24,24,1.0
+3,Night,2026-03-13 22:58,Gandhi Nagar,0.0,39,39,1.0
+3,Night,2026-03-13 22:58,Geeta Colony,0.0,48,48,1.0
+3,Night,2026-03-13 22:58,Greater Kailash,0.0,29,29,1.0
+3,Night,2026-03-13 22:58,Green Park,0.0,26,26,1.0
+3,Night,2026-03-13 22:58,Hari Nagar,0.0,40,40,1.0
+3,Night,2026-03-13 22:58,Hauz Khas,0.0,31,31,1.0
+3,Night,2026-03-13 22:58,IP Extension,0.0,23,23,1.0
+3,Night,2026-03-13 22:58,Janakpuri,0.0,37,37,1.0
+3,Night,2026-03-13 22:58,Jangpura,0.0,46,46,1.0
+3,Night,2026-03-13 22:58,Kalkaji,0.0,28,28,1.0
+3,Night,2026-03-13 22:58,Kamla Nagar,0.0,23,23,1.0
+3,Night,2026-03-13 22:58,Kanjhawala,0.0,43,43,1.0
+3,Night,2026-03-13 22:58,Karawal Nagar,0.0,20,20,1.0
+3,Night,2026-03-13 22:58,Karol Bagh,0.0,34,34,1.0
+3,Night,2026-03-13 22:58,Kashmere Gate,0.0,39,39,1.0
+3,Night,2026-03-13 22:58,Kirti Nagar,0.0,33,33,1.0
+3,Night,2026-03-13 22:58,Lajpat Nagar,0.0,28,28,1.0
+3,Night,2026-03-13 22:58,Laxmi Nagar,0.0,36,36,1.0
+3,Night,2026-03-13 22:58,Lodhi Colony,0.0,29,29,1.0
+3,Night,2026-03-13 22:58,Malviya Nagar,0.0,27,27,1.0
+3,Night,2026-03-13 22:58,Mangolpuri,0.0,24,24,1.0
+3,Night,2026-03-13 22:58,Mayur Vihar,0.0,48,48,1.0
+3,Night,2026-03-13 22:58,Mehrauli,0.0,38,38,1.0
+3,Night,2026-03-13 22:58,Model Town,0.0,36,36,1.0
+3,Night,2026-03-13 22:58,Moti Bagh,0.0,42,42,1.0
+3,Night,2026-03-13 22:58,Mukherjee Nagar,0.65,29,31,1.0
+3,Night,2026-03-13 22:58,Munirka,0.0,36,36,1.0
+3,Night,2026-03-13 22:58,Najafgarh,0.0,37,37,1.0
+3,Night,2026-03-13 22:58,Narela,0.0,31,31,1.0
+3,Night,2026-03-13 22:58,Nehru Place,0.0,28,28,1.0
+3,Night,2026-03-13 22:58,Okhla,0.0,54,54,1.0
+3,Night,2026-03-13 22:58,Palam,0.0,37,37,1.0
+3,Night,2026-03-13 22:58,Paschim Vihar,0.0,51,51,1.0
+3,Night,2026-03-13 22:58,Patel Nagar,0.0,36,36,1.0
+3,Night,2026-03-13 22:58,Pitampura,0.0,38,38,1.0
+3,Night,2026-03-13 22:58,Preet Vihar,0.0,25,25,1.0
+3,Night,2026-03-13 22:58,Punjabi Bagh,0.0,50,50,1.0
+3,Night,2026-03-13 22:58,Rajouri Garden,0.0,30,30,1.0
+3,Night,2026-03-13 22:58,RK Puram,0.0,28,28,1.0
+3,Night,2026-03-13 22:58,Rohini,0.0,30,30,1.0
+3,Night,2026-03-13 22:58,Safdarjung,0.0,25,25,1.0
+3,Night,2026-03-13 22:58,Saket,1.25,21,24,1.0
+3,Night,2026-03-13 22:58,Sarita Vihar,0.0,41,41,1.0
+3,Night,2026-03-13 22:58,Shahdara,0.0,34,34,1.0
+3,Night,2026-03-13 22:58,Shalimar Bagh,0.0,27,27,1.0
+3,Night,2026-03-13 22:58,South Extension,0.0,44,44,1.0
+3,Night,2026-03-13 22:58,Sunder Nagar,0.0,38,38,1.0
+3,Night,2026-03-13 22:58,Tilak Nagar,0.0,29,29,1.0
+3,Night,2026-03-13 22:58,Uttam Nagar,0.0,30,30,1.0
+3,Night,2026-03-13 22:58,Vasant Kunj,0.62,30,32,0.975653
+3,Night,2026-03-13 22:58,Vasant Vihar,0.0,55,55,1.0
+3,Night,2026-03-13 22:58,Vikas Puri,0.0,26,26,1.0
+3,Night,2026-03-13 22:58,Vivek Vihar,0.0,29,29,1.0
+3,Night,2026-03-13 22:58,Yamuna Vihar,2.78,13,18,0.970652
+4,Morning_Peak,2026-03-14 08:55,Adarsh Nagar,0.0,26,26,1.0
+4,Morning_Peak,2026-03-14 08:55,Alaknanda,0.0,33,33,1.0
+4,Morning_Peak,2026-03-14 08:55,Alipur,0.0,23,23,1.0
+4,Morning_Peak,2026-03-14 08:55,Anand Vihar,0.0,39,39,1.0
+4,Morning_Peak,2026-03-14 08:55,Ashok Vihar,0.0,30,30,1.0
+4,Morning_Peak,2026-03-14 08:55,Badarpur,0.0,35,35,1.0
+4,Morning_Peak,2026-03-14 08:55,Bali Nagar,1.33,26,30,1.0
+4,Morning_Peak,2026-03-14 08:55,Bawana,0.0,36,36,1.0
+4,Morning_Peak,2026-03-14 08:55,Chanakyapuri,0.0,39,39,1.0
+4,Morning_Peak,2026-03-14 08:55,Chandni Chowk,0.0,18,18,1.0
+4,Morning_Peak,2026-03-14 08:55,Chhattarpur,0.0,33,33,1.0
+4,Morning_Peak,2026-03-14 08:55,Civil Lines,0.0,35,35,1.0
+4,Morning_Peak,2026-03-14 08:55,Connaught Place,0.0,24,24,1.0
+4,Morning_Peak,2026-03-14 08:55,Daryaganj,0.0,28,28,1.0
+4,Morning_Peak,2026-03-14 08:55,Defence Colony,0.0,16,16,1.0
+4,Morning_Peak,2026-03-14 08:55,Delhi Cantt,0.0,40,40,1.0
+4,Morning_Peak,2026-03-14 08:55,Dilshad Garden,2.69,19,26,0.95
+4,Morning_Peak,2026-03-14 08:55,Dwarka,0.0,32,32,1.0
+4,Morning_Peak,2026-03-14 08:55,East of Kailash,1.74,19,23,1.0
+4,Morning_Peak,2026-03-14 08:55,Gandhi Nagar,1.84,31,38,1.0
+4,Morning_Peak,2026-03-14 08:55,Geeta Colony,0.0,48,48,1.0
+4,Morning_Peak,2026-03-14 08:55,Greater Kailash,0.0,29,29,1.0
+4,Morning_Peak,2026-03-14 08:55,Green Park,0.0,26,26,1.0
+4,Morning_Peak,2026-03-14 08:55,Hari Nagar,0.0,40,40,1.0
+4,Morning_Peak,2026-03-14 08:55,Hauz Khas,0.0,31,31,1.0
+4,Morning_Peak,2026-03-14 08:55,IP Extension,0.0,23,23,1.0
+4,Morning_Peak,2026-03-14 08:55,Janakpuri,0.0,37,37,1.0
+4,Morning_Peak,2026-03-14 08:55,Jangpura,0.0,46,46,1.0
+4,Morning_Peak,2026-03-14 08:55,Kalkaji,0.0,28,28,1.0
+4,Morning_Peak,2026-03-14 08:55,Kamla Nagar,0.0,23,23,1.0
+4,Morning_Peak,2026-03-14 08:55,Kanjhawala,0.0,43,43,1.0
+4,Morning_Peak,2026-03-14 08:55,Karawal Nagar,2.11,15,19,0.848749
+4,Morning_Peak,2026-03-14 08:55,Karol Bagh,0.0,34,34,1.0
+4,Morning_Peak,2026-03-14 08:55,Kashmere Gate,0.0,39,39,1.0
+4,Morning_Peak,2026-03-14 08:55,Kirti Nagar,0.0,33,33,1.0
+4,Morning_Peak,2026-03-14 08:55,Lajpat Nagar,0.0,28,28,1.0
+4,Morning_Peak,2026-03-14 08:55,Laxmi Nagar,0.0,36,36,1.0
+4,Morning_Peak,2026-03-14 08:55,Lodhi Colony,0.0,29,29,1.0
+4,Morning_Peak,2026-03-14 08:55,Malviya Nagar,0.0,27,27,1.0
+4,Morning_Peak,2026-03-14 08:55,Mangolpuri,0.0,24,24,1.0
+4,Morning_Peak,2026-03-14 08:55,Mayur Vihar,0.0,48,48,1.0
+4,Morning_Peak,2026-03-14 08:55,Mehrauli,0.0,38,38,1.0
+4,Morning_Peak,2026-03-14 08:55,Model Town,0.0,36,36,1.0
+4,Morning_Peak,2026-03-14 08:55,Moti Bagh,0.0,42,42,1.0
+4,Morning_Peak,2026-03-14 08:55,Mukherjee Nagar,0.0,31,31,1.0
+4,Morning_Peak,2026-03-14 08:55,Munirka,0.0,36,36,1.0
+4,Morning_Peak,2026-03-14 08:55,Najafgarh,0.0,37,37,1.0
+4,Morning_Peak,2026-03-14 08:55,Narela,2.19,25,32,0.949232
+4,Morning_Peak,2026-03-14 08:55,Nehru Place,0.0,28,28,1.0
+4,Morning_Peak,2026-03-14 08:55,Okhla,0.0,54,54,1.0
+4,Morning_Peak,2026-03-14 08:55,Palam,0.0,37,37,1.0
+4,Morning_Peak,2026-03-14 08:55,Paschim Vihar,0.0,51,51,1.0
+4,Morning_Peak,2026-03-14 08:55,Patel Nagar,0.0,36,36,1.0
+4,Morning_Peak,2026-03-14 08:55,Pitampura,0.0,38,38,1.0
+4,Morning_Peak,2026-03-14 08:55,Preet Vihar,0.0,25,25,1.0
+4,Morning_Peak,2026-03-14 08:55,Punjabi Bagh,0.0,50,50,1.0
+4,Morning_Peak,2026-03-14 08:55,Rajouri Garden,0.0,30,30,1.0
+4,Morning_Peak,2026-03-14 08:55,RK Puram,1.85,22,27,0.994712
+4,Morning_Peak,2026-03-14 08:55,Rohini,2.33,23,30,1.0
+4,Morning_Peak,2026-03-14 08:55,Safdarjung,0.0,25,25,1.0
+4,Morning_Peak,2026-03-14 08:55,Saket,0.0,23,23,1.0
+4,Morning_Peak,2026-03-14 08:55,Sarita Vihar,0.0,41,41,1.0
+4,Morning_Peak,2026-03-14 08:55,Shahdara,0.0,34,34,1.0
+4,Morning_Peak,2026-03-14 08:55,Shalimar Bagh,0.0,27,27,1.0
+4,Morning_Peak,2026-03-14 08:55,South Extension,0.0,44,44,1.0
+4,Morning_Peak,2026-03-14 08:55,Sunder Nagar,0.0,38,38,1.0
+4,Morning_Peak,2026-03-14 08:55,Tilak Nagar,1.67,25,30,1.0
+4,Morning_Peak,2026-03-14 08:55,Uttam Nagar,0.0,30,30,1.0
+4,Morning_Peak,2026-03-14 08:55,Vasant Kunj,1.25,28,32,0.975653
+4,Morning_Peak,2026-03-14 08:55,Vasant Vihar,0.0,55,55,1.0
+4,Morning_Peak,2026-03-14 08:55,Vikas Puri,0.0,26,26,1.0
+4,Morning_Peak,2026-03-14 08:55,Vivek Vihar,0.0,29,29,1.0
+4,Morning_Peak,2026-03-14 08:55,Yamuna Vihar,0.56,17,18,0.90105
+5,Afternoon,2026-03-14 12:55,Adarsh Nagar,4.62,14,26,0.981261
+5,Afternoon,2026-03-14 12:55,Alaknanda,3.33,22,33,1.0
+5,Afternoon,2026-03-14 12:55,Alipur,1.36,19,22,0.945772
+5,Afternoon,2026-03-14 12:55,Anand Vihar,0.0,39,39,1.0
+5,Afternoon,2026-03-14 12:55,Ashok Vihar,1.94,25,31,1.0
+5,Afternoon,2026-03-14 12:55,Badarpur,0.0,35,35,1.0
+5,Afternoon,2026-03-14 12:55,Bali Nagar,3.67,19,30,0.999525
+5,Afternoon,2026-03-14 12:55,Bawana,3.61,23,36,0.770658
+5,Afternoon,2026-03-14 12:55,Chanakyapuri,1.58,32,38,0.95742
+5,Afternoon,2026-03-14 12:55,Chandni Chowk,3.68,12,19,1.0
+5,Afternoon,2026-03-14 12:55,Chhattarpur,0.0,33,33,1.0
+5,Afternoon,2026-03-14 12:55,Civil Lines,2.94,24,34,1.0
+5,Afternoon,2026-03-14 12:55,Connaught Place,2.5,18,24,1.0
+5,Afternoon,2026-03-14 12:55,Daryaganj,3.57,18,28,0.994308
+5,Afternoon,2026-03-14 12:55,Defence Colony,4.12,10,17,0.922661
+5,Afternoon,2026-03-14 12:55,Delhi Cantt,1.75,33,40,1.0
+5,Afternoon,2026-03-14 12:55,Dilshad Garden,3.46,17,26,0.971995
+5,Afternoon,2026-03-14 12:55,Dwarka,1.82,27,33,1.0
+5,Afternoon,2026-03-14 12:55,East of Kailash,2.61,17,23,1.0
+5,Afternoon,2026-03-14 12:55,Gandhi Nagar,2.82,28,39,1.0
+5,Afternoon,2026-03-14 12:55,Geeta Colony,1.25,42,48,1.0
+5,Afternoon,2026-03-14 12:55,Greater Kailash,4.29,16,28,1.0
+5,Afternoon,2026-03-14 12:55,Green Park,2.4,19,25,1.0
+5,Afternoon,2026-03-14 12:55,Hari Nagar,1.75,33,40,1.0
+5,Afternoon,2026-03-14 12:55,Hauz Khas,3.44,21,32,0.998986
+5,Afternoon,2026-03-14 12:55,IP Extension,2.61,17,23,0.990651
+5,Afternoon,2026-03-14 12:55,Janakpuri,2.78,26,36,1.0
+5,Afternoon,2026-03-14 12:55,Jangpura,0.0,46,46,1.0
+5,Afternoon,2026-03-14 12:55,Kalkaji,0.0,28,28,1.0
+5,Afternoon,2026-03-14 12:55,Kamla Nagar,3.64,14,22,0.991376
+5,Afternoon,2026-03-14 12:55,Kanjhawala,0.0,43,43,1.0
+5,Afternoon,2026-03-14 12:55,Karawal Nagar,2.5,15,20,0.884182
+5,Afternoon,2026-03-14 12:55,Karol Bagh,2.42,25,33,1.0
+5,Afternoon,2026-03-14 12:55,Kashmere Gate,2.05,31,39,1.0
+5,Afternoon,2026-03-14 12:55,Kirti Nagar,3.33,22,33,1.0
+5,Afternoon,2026-03-14 12:55,Lajpat Nagar,1.79,23,28,1.0
+5,Afternoon,2026-03-14 12:55,Laxmi Nagar,1.94,29,36,1.0
+5,Afternoon,2026-03-14 12:55,Lodhi Colony,0.0,29,29,1.0
+5,Afternoon,2026-03-14 12:55,Malviya Nagar,4.44,15,27,1.0
+5,Afternoon,2026-03-14 12:55,Mangolpuri,2.08,19,24,0.978732
+5,Afternoon,2026-03-14 12:55,Mayur Vihar,1.25,42,48,1.0
+5,Afternoon,2026-03-14 12:55,Mehrauli,1.58,32,38,1.0
+5,Afternoon,2026-03-14 12:55,Model Town,1.94,29,36,1.0
+5,Afternoon,2026-03-14 12:55,Moti Bagh,3.33,28,42,1.0
+5,Afternoon,2026-03-14 12:55,Mukherjee Nagar,1.61,26,31,1.0
+5,Afternoon,2026-03-14 12:55,Munirka,1.58,32,38,1.0
+5,Afternoon,2026-03-14 12:55,Najafgarh,1.39,31,36,0.997862
+5,Afternoon,2026-03-14 12:55,Narela,2.58,23,31,0.980134
+5,Afternoon,2026-03-14 12:55,Nehru Place,3.33,18,27,1.0
+5,Afternoon,2026-03-14 12:55,Okhla,1.3,47,54,1.0
+5,Afternoon,2026-03-14 12:55,Palam,0.0,37,37,1.0
+5,Afternoon,2026-03-14 12:55,Paschim Vihar,1.96,41,51,1.0
+5,Afternoon,2026-03-14 12:55,Patel Nagar,1.94,29,36,1.0
+5,Afternoon,2026-03-14 12:55,Pitampura,2.56,29,39,1.0
+5,Afternoon,2026-03-14 12:55,Preet Vihar,2.4,19,25,0.993669
+5,Afternoon,2026-03-14 12:55,Punjabi Bagh,4.69,26,49,1.0
+5,Afternoon,2026-03-14 12:55,Rajouri Garden,3.33,20,30,1.0
+5,Afternoon,2026-03-14 12:55,RK Puram,0.0,28,28,1.0
+5,Afternoon,2026-03-14 12:55,Rohini,3.67,19,30,1.0
+5,Afternoon,2026-03-14 12:55,Safdarjung,2.5,18,24,1.0
+5,Afternoon,2026-03-14 12:55,Saket,1.3,20,23,1.0
+5,Afternoon,2026-03-14 12:55,Sarita Vihar,1.75,33,40,0.972253
+5,Afternoon,2026-03-14 12:55,Shahdara,2.06,27,34,1.0
+5,Afternoon,2026-03-14 12:55,Shalimar Bagh,1.54,22,26,1.0
+5,Afternoon,2026-03-14 12:55,South Extension,3.26,29,43,1.0
+5,Afternoon,2026-03-14 12:55,Sunder Nagar,1.84,31,38,1.0
+5,Afternoon,2026-03-14 12:55,Tilak Nagar,3.67,19,30,0.999142
+5,Afternoon,2026-03-14 12:55,Uttam Nagar,3.33,20,30,1.0
+5,Afternoon,2026-03-14 12:55,Vasant Kunj,1.88,26,32,0.975653
+5,Afternoon,2026-03-14 12:55,Vasant Vihar,0.0,55,55,1.0
+5,Afternoon,2026-03-14 12:55,Vikas Puri,0.0,26,26,1.0
+5,Afternoon,2026-03-14 12:55,Vivek Vihar,0.0,29,29,1.0
+5,Afternoon,2026-03-14 12:55,Yamuna Vihar,3.89,11,18,0.936403
+6,Evening_Peak,2026-03-14 17:55,Adarsh Nagar,3.46,17,26,0.987814
+6,Evening_Peak,2026-03-14 17:55,Alaknanda,2.19,25,32,1.0
+6,Evening_Peak,2026-03-14 17:55,Alipur,1.82,18,22,0.869137
+6,Evening_Peak,2026-03-14 17:55,Anand Vihar,1.5,34,40,1.0
+6,Evening_Peak,2026-03-14 17:55,Ashok Vihar,2.58,23,31,1.0
+6,Evening_Peak,2026-03-14 17:55,Badarpur,1.76,28,34,0.992001
+6,Evening_Peak,2026-03-14 17:55,Bali Nagar,3.67,19,30,0.999708
+6,Evening_Peak,2026-03-14 17:55,Bawana,0.0,36,36,1.0
+6,Evening_Peak,2026-03-14 17:55,Chanakyapuri,1.08,33,37,0.981053
+6,Evening_Peak,2026-03-14 17:55,Chandni Chowk,3.89,11,18,1.0
+6,Evening_Peak,2026-03-14 17:55,Chhattarpur,1.76,28,34,1.0
+6,Evening_Peak,2026-03-14 17:55,Civil Lines,2.65,25,34,1.0
+6,Evening_Peak,2026-03-14 17:55,Connaught Place,4.35,13,23,1.0
+6,Evening_Peak,2026-03-14 17:55,Daryaganj,4.14,17,29,0.992334
+6,Evening_Peak,2026-03-14 17:55,Defence Colony,3.75,10,16,0.905961
+6,Evening_Peak,2026-03-14 17:55,Delhi Cantt,2.44,31,41,1.0
+6,Evening_Peak,2026-03-14 17:55,Dilshad Garden,2.31,20,26,0.987198
+6,Evening_Peak,2026-03-14 17:55,Dwarka,1.88,26,32,1.0
+6,Evening_Peak,2026-03-14 17:55,East of Kailash,2.61,17,23,1.0
+6,Evening_Peak,2026-03-14 17:55,Gandhi Nagar,2.11,30,38,1.0
+6,Evening_Peak,2026-03-14 17:55,Geeta Colony,1.88,39,48,1.0
+6,Evening_Peak,2026-03-14 17:55,Greater Kailash,3.93,17,28,1.0
+6,Evening_Peak,2026-03-14 17:55,Green Park,3.85,16,26,1.0
+6,Evening_Peak,2026-03-14 17:55,Hari Nagar,2.44,31,41,1.0
+6,Evening_Peak,2026-03-14 17:55,Hauz Khas,3.03,23,33,0.999662
+6,Evening_Peak,2026-03-14 17:55,IP Extension,2.61,17,23,0.994699
+6,Evening_Peak,2026-03-14 17:55,Janakpuri,3.24,25,37,1.0
+6,Evening_Peak,2026-03-14 17:55,Jangpura,0.0,46,46,1.0
+6,Evening_Peak,2026-03-14 17:55,Kalkaji,2.22,21,27,1.0
+6,Evening_Peak,2026-03-14 17:55,Kamla Nagar,3.64,14,22,0.997445
+6,Evening_Peak,2026-03-14 17:55,Kanjhawala,0.93,39,43,0.957928
+6,Evening_Peak,2026-03-14 17:55,Karawal Nagar,2.86,15,21,0.834385
+6,Evening_Peak,2026-03-14 17:55,Karol Bagh,2.94,24,34,1.0
+6,Evening_Peak,2026-03-14 17:55,Kashmere Gate,2.05,31,39,1.0
+6,Evening_Peak,2026-03-14 17:55,Kirti Nagar,3.64,21,33,1.0
+6,Evening_Peak,2026-03-14 17:55,Lajpat Nagar,1.43,24,28,1.0
+6,Evening_Peak,2026-03-14 17:55,Laxmi Nagar,2.78,26,36,1.0
+6,Evening_Peak,2026-03-14 17:55,Lodhi Colony,2.76,21,29,0.994663
+6,Evening_Peak,2026-03-14 17:55,Malviya Nagar,3.85,16,26,1.0
+6,Evening_Peak,2026-03-14 17:55,Mangolpuri,3.04,16,23,0.979952
+6,Evening_Peak,2026-03-14 17:55,Mayur Vihar,1.88,39,48,1.0
+6,Evening_Peak,2026-03-14 17:55,Mehrauli,1.84,31,38,1.0
+6,Evening_Peak,2026-03-14 17:55,Model Town,2.22,28,36,1.0
+6,Evening_Peak,2026-03-14 17:55,Moti Bagh,3.1,29,42,1.0
+6,Evening_Peak,2026-03-14 17:55,Mukherjee Nagar,1.94,25,31,1.0
+6,Evening_Peak,2026-03-14 17:55,Munirka,1.84,31,38,1.0
+6,Evening_Peak,2026-03-14 17:55,Najafgarh,0.0,37,37,1.0
+6,Evening_Peak,2026-03-14 17:55,Narela,2.5,24,32,0.992143
+6,Evening_Peak,2026-03-14 17:55,Nehru Place,3.21,19,28,1.0
+6,Evening_Peak,2026-03-14 17:55,Okhla,1.48,46,54,1.0
+6,Evening_Peak,2026-03-14 17:55,Palam,1.62,31,37,1.0
+6,Evening_Peak,2026-03-14 17:55,Paschim Vihar,1.76,42,51,1.0
+6,Evening_Peak,2026-03-14 17:55,Patel Nagar,1.89,30,37,1.0
+6,Evening_Peak,2026-03-14 17:55,Pitampura,2.82,28,39,1.0
+6,Evening_Peak,2026-03-14 17:55,Preet Vihar,2.0,20,25,1.0
+6,Evening_Peak,2026-03-14 17:55,Punjabi Bagh,1.43,42,49,1.0
+6,Evening_Peak,2026-03-14 17:55,Rajouri Garden,3.55,20,31,1.0
+6,Evening_Peak,2026-03-14 17:55,RK Puram,1.54,22,26,1.0
+6,Evening_Peak,2026-03-14 17:55,Rohini,4.0,18,30,0.999251
+6,Evening_Peak,2026-03-14 17:55,Safdarjung,3.33,16,24,1.0
+6,Evening_Peak,2026-03-14 17:55,Saket,0.0,23,23,1.0
+6,Evening_Peak,2026-03-14 17:55,Sarita Vihar,1.28,34,39,0.977309
+6,Evening_Peak,2026-03-14 17:55,Shahdara,1.76,28,34,1.0
+6,Evening_Peak,2026-03-14 17:55,Shalimar Bagh,1.85,22,27,1.0
+6,Evening_Peak,2026-03-14 17:55,South Extension,2.73,32,44,1.0
+6,Evening_Peak,2026-03-14 17:55,Sunder Nagar,2.05,31,39,1.0
+6,Evening_Peak,2026-03-14 17:55,Tilak Nagar,3.67,19,30,0.999708
+6,Evening_Peak,2026-03-14 17:55,Uttam Nagar,3.55,20,31,1.0
+6,Evening_Peak,2026-03-14 17:55,Vasant Kunj,2.19,25,32,0.975653
+6,Evening_Peak,2026-03-14 17:55,Vasant Vihar,0.0,55,55,1.0
+6,Evening_Peak,2026-03-14 17:55,Vikas Puri,2.31,20,26,1.0
+6,Evening_Peak,2026-03-14 17:55,Vivek Vihar,2.67,22,30,0.997834
+6,Evening_Peak,2026-03-14 17:55,Yamuna Vihar,5.0,9,18,0.930647
+7,Night,2026-03-14 22:54,Adarsh Nagar,1.54,22,26,0.981431
+7,Night,2026-03-14 22:54,Alaknanda,0.0,33,33,1.0
+7,Night,2026-03-14 22:54,Alipur,0.0,23,23,1.0
+7,Night,2026-03-14 22:54,Anand Vihar,0.0,39,39,1.0
+7,Night,2026-03-14 22:54,Ashok Vihar,0.0,30,30,1.0
+7,Night,2026-03-14 22:54,Badarpur,0.0,35,35,1.0
+7,Night,2026-03-14 22:54,Bali Nagar,1.38,25,29,1.0
+7,Night,2026-03-14 22:54,Bawana,0.0,36,36,1.0
+7,Night,2026-03-14 22:54,Chanakyapuri,1.03,35,39,0.963761
+7,Night,2026-03-14 22:54,Chandni Chowk,0.0,18,18,1.0
+7,Night,2026-03-14 22:54,Chhattarpur,0.0,33,33,1.0
+7,Night,2026-03-14 22:54,Civil Lines,0.0,35,35,1.0
+7,Night,2026-03-14 22:54,Connaught Place,4.35,13,23,1.0
+7,Night,2026-03-14 22:54,Daryaganj,2.59,20,27,0.98394
+7,Night,2026-03-14 22:54,Defence Colony,2.0,12,15,0.946508
+7,Night,2026-03-14 22:54,Delhi Cantt,0.0,40,40,1.0
+7,Night,2026-03-14 22:54,Dilshad Garden,0.0,27,27,1.0
+7,Night,2026-03-14 22:54,Dwarka,0.0,32,32,1.0
+7,Night,2026-03-14 22:54,East of Kailash,0.0,24,24,1.0
+7,Night,2026-03-14 22:54,Gandhi Nagar,2.05,31,39,1.0
+7,Night,2026-03-14 22:54,Geeta Colony,0.0,48,48,1.0
+7,Night,2026-03-14 22:54,Greater Kailash,0.0,29,29,1.0
+7,Night,2026-03-14 22:54,Green Park,0.0,26,26,1.0
+7,Night,2026-03-14 22:54,Hari Nagar,0.0,40,40,1.0
+7,Night,2026-03-14 22:54,Hauz Khas,0.0,31,31,1.0
+7,Night,2026-03-14 22:54,IP Extension,0.0,23,23,1.0
+7,Night,2026-03-14 22:54,Janakpuri,0.0,37,37,1.0
+7,Night,2026-03-14 22:54,Jangpura,0.0,46,46,1.0
+7,Night,2026-03-14 22:54,Kalkaji,0.0,28,28,1.0
+7,Night,2026-03-14 22:54,Kamla Nagar,0.0,23,23,1.0
+7,Night,2026-03-14 22:54,Kanjhawala,0.47,41,43,0.920586
+7,Night,2026-03-14 22:54,Karawal Nagar,1.43,18,21,0.886961
+7,Night,2026-03-14 22:54,Karol Bagh,0.0,34,34,1.0
+7,Night,2026-03-14 22:54,Kashmere Gate,0.0,39,39,1.0
+7,Night,2026-03-14 22:54,Kirti Nagar,0.0,33,33,1.0
+7,Night,2026-03-14 22:54,Lajpat Nagar,0.0,28,28,1.0
+7,Night,2026-03-14 22:54,Laxmi Nagar,2.22,28,36,1.0
+7,Night,2026-03-14 22:54,Lodhi Colony,2.41,22,29,0.966928
+7,Night,2026-03-14 22:54,Malviya Nagar,0.0,27,27,1.0
+7,Night,2026-03-14 22:54,Mangolpuri,0.0,24,24,1.0
+7,Night,2026-03-14 22:54,Mayur Vihar,0.0,48,48,1.0
+7,Night,2026-03-14 22:54,Mehrauli,0.0,38,38,1.0
+7,Night,2026-03-14 22:54,Model Town,0.0,36,36,1.0
+7,Night,2026-03-14 22:54,Moti Bagh,0.0,42,42,1.0
+7,Night,2026-03-14 22:54,Mukherjee Nagar,0.0,31,31,1.0
+7,Night,2026-03-14 22:54,Munirka,0.0,36,36,1.0
+7,Night,2026-03-14 22:54,Najafgarh,0.0,37,37,1.0
+7,Night,2026-03-14 22:54,Narela,0.0,31,31,1.0
+7,Night,2026-03-14 22:54,Nehru Place,0.0,28,28,1.0
+7,Night,2026-03-14 22:54,Okhla,0.0,54,54,1.0
+7,Night,2026-03-14 22:54,Palam,0.0,37,37,1.0
+7,Night,2026-03-14 22:54,Paschim Vihar,0.0,51,51,1.0
+7,Night,2026-03-14 22:54,Patel Nagar,0.0,36,36,1.0
+7,Night,2026-03-14 22:54,Pitampura,0.0,38,38,1.0
+7,Night,2026-03-14 22:54,Preet Vihar,0.0,25,25,1.0
+7,Night,2026-03-14 22:54,Punjabi Bagh,0.0,50,50,1.0
+7,Night,2026-03-14 22:54,Rajouri Garden,0.0,30,30,1.0
+7,Night,2026-03-14 22:54,RK Puram,0.0,28,28,1.0
+7,Night,2026-03-14 22:54,Rohini,2.0,24,30,0.998656
+7,Night,2026-03-14 22:54,Safdarjung,0.0,25,25,1.0
+7,Night,2026-03-14 22:54,Saket,0.0,23,23,1.0
+7,Night,2026-03-14 22:54,Sarita Vihar,0.0,41,41,1.0
+7,Night,2026-03-14 22:54,Shahdara,2.0,28,35,1.0
+7,Night,2026-03-14 22:54,Shalimar Bagh,0.0,27,27,1.0
+7,Night,2026-03-14 22:54,South Extension,0.0,44,44,1.0
+7,Night,2026-03-14 22:54,Sunder Nagar,0.0,38,38,1.0
+7,Night,2026-03-14 22:54,Tilak Nagar,1.38,25,29,1.0
+7,Night,2026-03-14 22:54,Uttam Nagar,0.0,30,30,1.0
+7,Night,2026-03-14 22:54,Vasant Kunj,0.65,29,31,0.975653
+7,Night,2026-03-14 22:54,Vasant Vihar,0.0,55,55,1.0
+7,Night,2026-03-14 22:54,Vikas Puri,2.0,20,25,1.0
+7,Night,2026-03-14 22:54,Vivek Vihar,0.0,29,29,1.0
+7,Night,2026-03-14 22:54,Yamuna Vihar,2.78,13,18,0.977807
+8,Morning_Peak,2026-03-15 10:14,Adarsh Nagar,1.92,21,26,0.961711
+8,Morning_Peak,2026-03-15 10:14,Alaknanda,0.0,33,33,1.0
+8,Morning_Peak,2026-03-15 10:14,Alipur,0.91,20,22,0.947328
+8,Morning_Peak,2026-03-15 10:14,Anand Vihar,0.0,39,39,1.0
+8,Morning_Peak,2026-03-15 10:14,Ashok Vihar,0.0,30,30,1.0
+8,Morning_Peak,2026-03-15 10:14,Badarpur,1.71,29,35,0.970593
+8,Morning_Peak,2026-03-15 10:14,Bali Nagar,0.0,29,29,1.0
+8,Morning_Peak,2026-03-15 10:14,Bawana,0.0,36,36,1.0
+8,Morning_Peak,2026-03-15 10:14,Chanakyapuri,0.0,39,39,1.0
+8,Morning_Peak,2026-03-15 10:14,Chandni Chowk,2.22,14,18,0.994548
+8,Morning_Peak,2026-03-15 10:14,Chhattarpur,0.0,33,33,1.0
+8,Morning_Peak,2026-03-15 10:14,Civil Lines,0.0,35,35,1.0
+8,Morning_Peak,2026-03-15 10:14,Connaught Place,0.0,24,24,1.0
+8,Morning_Peak,2026-03-15 10:14,Daryaganj,0.0,28,28,1.0
+8,Morning_Peak,2026-03-15 10:14,Defence Colony,1.25,14,16,0.938279
+8,Morning_Peak,2026-03-15 10:14,Delhi Cantt,0.0,40,40,1.0
+8,Morning_Peak,2026-03-15 10:14,Dilshad Garden,0.0,27,27,1.0
+8,Morning_Peak,2026-03-15 10:14,Dwarka,0.0,32,32,1.0
+8,Morning_Peak,2026-03-15 10:14,East of Kailash,0.0,24,24,1.0
+8,Morning_Peak,2026-03-15 10:14,Gandhi Nagar,2.37,29,38,1.0
+8,Morning_Peak,2026-03-15 10:14,Geeta Colony,0.0,48,48,1.0
+8,Morning_Peak,2026-03-15 10:14,Greater Kailash,1.79,23,28,1.0
+8,Morning_Peak,2026-03-15 10:14,Green Park,2.8,18,25,1.0
+8,Morning_Peak,2026-03-15 10:14,Hari Nagar,0.0,40,40,1.0
+8,Morning_Peak,2026-03-15 10:14,Hauz Khas,0.0,31,31,1.0
+8,Morning_Peak,2026-03-15 10:14,IP Extension,1.3,20,23,0.969086
+8,Morning_Peak,2026-03-15 10:14,Janakpuri,0.0,37,37,1.0
+8,Morning_Peak,2026-03-15 10:14,Jangpura,0.0,46,46,1.0
+8,Morning_Peak,2026-03-15 10:14,Kalkaji,0.0,28,28,1.0
+8,Morning_Peak,2026-03-15 10:14,Kamla Nagar,2.73,16,22,0.988204
+8,Morning_Peak,2026-03-15 10:14,Kanjhawala,0.0,43,43,1.0
+8,Morning_Peak,2026-03-15 10:14,Karawal Nagar,3.33,14,21,0.890611
+8,Morning_Peak,2026-03-15 10:14,Karol Bagh,0.0,34,34,1.0
+8,Morning_Peak,2026-03-15 10:14,Kashmere Gate,0.0,39,39,1.0
+8,Morning_Peak,2026-03-15 10:14,Kirti Nagar,0.0,33,33,1.0
+8,Morning_Peak,2026-03-15 10:14,Lajpat Nagar,0.0,28,28,1.0
+8,Morning_Peak,2026-03-15 10:14,Laxmi Nagar,0.0,36,36,1.0
+8,Morning_Peak,2026-03-15 10:14,Lodhi Colony,0.0,29,29,1.0
+8,Morning_Peak,2026-03-15 10:14,Malviya Nagar,0.0,27,27,1.0
+8,Morning_Peak,2026-03-15 10:14,Mangolpuri,2.08,19,24,0.959091
+8,Morning_Peak,2026-03-15 10:14,Mayur Vihar,0.0,48,48,1.0
+8,Morning_Peak,2026-03-15 10:14,Mehrauli,0.0,38,38,1.0
+8,Morning_Peak,2026-03-15 10:14,Model Town,1.67,30,36,1.0
+8,Morning_Peak,2026-03-15 10:14,Moti Bagh,0.0,42,42,1.0
+8,Morning_Peak,2026-03-15 10:14,Mukherjee Nagar,0.0,31,31,1.0
+8,Morning_Peak,2026-03-15 10:14,Munirka,0.0,36,36,1.0
+8,Morning_Peak,2026-03-15 10:14,Najafgarh,0.0,37,37,1.0
+8,Morning_Peak,2026-03-15 10:14,Narela,1.94,25,31,0.969435
+8,Morning_Peak,2026-03-15 10:14,Nehru Place,0.0,28,28,1.0
+8,Morning_Peak,2026-03-15 10:14,Okhla,0.0,54,54,1.0
+8,Morning_Peak,2026-03-15 10:14,Palam,0.0,37,37,1.0
+8,Morning_Peak,2026-03-15 10:14,Paschim Vihar,0.0,51,51,1.0
+8,Morning_Peak,2026-03-15 10:14,Patel Nagar,0.0,36,36,1.0
+8,Morning_Peak,2026-03-15 10:14,Pitampura,0.0,38,38,1.0
+8,Morning_Peak,2026-03-15 10:14,Preet Vihar,0.0,25,25,1.0
+8,Morning_Peak,2026-03-15 10:14,Punjabi Bagh,0.0,50,50,1.0
+8,Morning_Peak,2026-03-15 10:14,Rajouri Garden,0.0,30,30,1.0
+8,Morning_Peak,2026-03-15 10:14,RK Puram,0.0,28,28,1.0
+8,Morning_Peak,2026-03-15 10:14,Rohini,2.41,22,29,0.997108
+8,Morning_Peak,2026-03-15 10:14,Safdarjung,0.0,25,25,1.0
+8,Morning_Peak,2026-03-15 10:14,Saket,0.0,23,23,1.0
+8,Morning_Peak,2026-03-15 10:14,Sarita Vihar,0.0,41,41,1.0
+8,Morning_Peak,2026-03-15 10:14,Shahdara,0.0,34,34,1.0
+8,Morning_Peak,2026-03-15 10:14,Shalimar Bagh,0.0,27,27,1.0
+8,Morning_Peak,2026-03-15 10:14,South Extension,0.0,44,44,1.0
+8,Morning_Peak,2026-03-15 10:14,Sunder Nagar,0.0,38,38,1.0
+8,Morning_Peak,2026-03-15 10:14,Tilak Nagar,0.0,29,29,1.0
+8,Morning_Peak,2026-03-15 10:14,Uttam Nagar,0.0,30,30,1.0
+8,Morning_Peak,2026-03-15 10:14,Vasant Kunj,1.25,28,32,0.975653
+8,Morning_Peak,2026-03-15 10:14,Vasant Vihar,0.0,55,55,1.0
+8,Morning_Peak,2026-03-15 10:14,Vikas Puri,0.0,26,26,1.0
+8,Morning_Peak,2026-03-15 10:14,Vivek Vihar,0.0,29,29,1.0
+8,Morning_Peak,2026-03-15 10:14,Yamuna Vihar,0.0,18,18,1.0
+9,Afternoon,2026-03-15 13:07,Adarsh Nagar,2.69,19,26,0.982312
+9,Afternoon,2026-03-15 13:07,Alaknanda,0.0,33,33,1.0
+9,Afternoon,2026-03-15 13:07,Alipur,1.36,19,22,0.938671
+9,Afternoon,2026-03-15 13:07,Anand Vihar,0.0,39,39,1.0
+9,Afternoon,2026-03-15 13:07,Ashok Vihar,2.0,24,30,1.0
+9,Afternoon,2026-03-15 13:07,Badarpur,2.0,28,35,0.992001
+9,Afternoon,2026-03-15 13:07,Bali Nagar,3.0,21,30,0.998832
+9,Afternoon,2026-03-15 13:07,Bawana,0.0,36,36,1.0
+9,Afternoon,2026-03-15 13:07,Chanakyapuri,1.58,32,38,0.965526
+9,Afternoon,2026-03-15 13:07,Chandni Chowk,0.0,18,18,1.0
+9,Afternoon,2026-03-15 13:07,Chhattarpur,0.0,33,33,1.0
+9,Afternoon,2026-03-15 13:07,Civil Lines,0.0,35,35,1.0
+9,Afternoon,2026-03-15 13:07,Connaught Place,0.0,24,24,1.0
+9,Afternoon,2026-03-15 13:07,Daryaganj,2.22,21,27,0.999535
+9,Afternoon,2026-03-15 13:07,Defence Colony,1.25,14,16,0.92182
+9,Afternoon,2026-03-15 13:07,Delhi Cantt,1.46,35,41,1.0
+9,Afternoon,2026-03-15 13:07,Dilshad Garden,1.92,21,26,0.987327
+9,Afternoon,2026-03-15 13:07,Dwarka,0.0,32,32,1.0
+9,Afternoon,2026-03-15 13:07,East of Kailash,1.82,18,22,1.0
+9,Afternoon,2026-03-15 13:07,Gandhi Nagar,0.0,39,39,1.0
+9,Afternoon,2026-03-15 13:07,Geeta Colony,1.67,40,48,1.0
+9,Afternoon,2026-03-15 13:07,Greater Kailash,1.85,22,27,1.0
+9,Afternoon,2026-03-15 13:07,Green Park,2.31,20,26,1.0
+9,Afternoon,2026-03-15 13:07,Hari Nagar,1.46,35,41,1.0
+9,Afternoon,2026-03-15 13:07,Hauz Khas,0.0,31,31,1.0
+9,Afternoon,2026-03-15 13:07,IP Extension,0.0,23,23,1.0
+9,Afternoon,2026-03-15 13:07,Janakpuri,0.0,37,37,1.0
+9,Afternoon,2026-03-15 13:07,Jangpura,2.39,35,46,1.0
+9,Afternoon,2026-03-15 13:07,Kalkaji,0.0,28,28,1.0
+9,Afternoon,2026-03-15 13:07,Kamla Nagar,3.48,15,23,0.987911
+9,Afternoon,2026-03-15 13:07,Kanjhawala,0.0,43,43,1.0
+9,Afternoon,2026-03-15 13:07,Karawal Nagar,4.0,12,20,0.925379
+9,Afternoon,2026-03-15 13:07,Karol Bagh,2.06,27,34,1.0
+9,Afternoon,2026-03-15 13:07,Kashmere Gate,0.0,39,39,1.0
+9,Afternoon,2026-03-15 13:07,Kirti Nagar,2.12,26,33,1.0
+9,Afternoon,2026-03-15 13:07,Lajpat Nagar,0.0,28,28,1.0
+9,Afternoon,2026-03-15 13:07,Laxmi Nagar,0.0,36,36,1.0
+9,Afternoon,2026-03-15 13:07,Lodhi Colony,0.0,29,29,1.0
+9,Afternoon,2026-03-15 13:07,Malviya Nagar,0.0,27,27,1.0
+9,Afternoon,2026-03-15 13:07,Mangolpuri,2.08,19,24,0.988024
+9,Afternoon,2026-03-15 13:07,Mayur Vihar,1.43,42,49,1.0
+9,Afternoon,2026-03-15 13:07,Mehrauli,0.81,34,37,1.0
+9,Afternoon,2026-03-15 13:07,Model Town,1.67,30,36,1.0
+9,Afternoon,2026-03-15 13:07,Moti Bagh,0.0,42,42,1.0
+9,Afternoon,2026-03-15 13:07,Mukherjee Nagar,1.61,26,31,1.0
+9,Afternoon,2026-03-15 13:07,Munirka,1.58,32,38,1.0
+9,Afternoon,2026-03-15 13:07,Najafgarh,2.16,29,37,0.997113
+9,Afternoon,2026-03-15 13:07,Narela,3.44,21,32,0.990098
+9,Afternoon,2026-03-15 13:07,Nehru Place,1.11,24,27,1.0
+9,Afternoon,2026-03-15 13:07,Okhla,0.0,54,54,1.0
+9,Afternoon,2026-03-15 13:07,Palam,0.0,37,37,1.0
+9,Afternoon,2026-03-15 13:07,Paschim Vihar,2.16,40,51,1.0
+9,Afternoon,2026-03-15 13:07,Patel Nagar,1.89,30,37,1.0
+9,Afternoon,2026-03-15 13:07,Pitampura,2.56,29,39,1.0
+9,Afternoon,2026-03-15 13:07,Preet Vihar,2.0,20,25,0.99
+9,Afternoon,2026-03-15 13:07,Punjabi Bagh,2.04,39,49,1.0
+9,Afternoon,2026-03-15 13:07,Rajouri Garden,3.23,21,31,1.0
+9,Afternoon,2026-03-15 13:07,RK Puram,0.0,28,28,1.0
+9,Afternoon,2026-03-15 13:07,Rohini,3.1,20,29,1.0
+9,Afternoon,2026-03-15 13:07,Safdarjung,2.4,19,25,1.0
+9,Afternoon,2026-03-15 13:07,Saket,0.0,23,23,1.0
+9,Afternoon,2026-03-15 13:07,Sarita Vihar,0.0,41,41,1.0
+9,Afternoon,2026-03-15 13:07,Shahdara,1.18,30,34,1.0
+9,Afternoon,2026-03-15 13:07,Shalimar Bagh,0.0,27,27,1.0
+9,Afternoon,2026-03-15 13:07,South Extension,1.82,36,44,1.0
+9,Afternoon,2026-03-15 13:07,Sunder Nagar,2.56,29,39,1.0
+9,Afternoon,2026-03-15 13:07,Tilak Nagar,3.0,21,30,0.998599
+9,Afternoon,2026-03-15 13:07,Uttam Nagar,3.0,21,30,1.0
+9,Afternoon,2026-03-15 13:07,Vasant Kunj,1.56,27,32,0.975653
+9,Afternoon,2026-03-15 13:07,Vasant Vihar,0.0,55,55,1.0
+9,Afternoon,2026-03-15 13:07,Vikas Puri,0.0,26,26,1.0
+9,Afternoon,2026-03-15 13:07,Vivek Vihar,1.38,25,29,0.9966
+9,Afternoon,2026-03-15 13:07,Yamuna Vihar,3.89,11,18,0.942961
+10,Evening_Peak,2026-03-15 17:57,Adarsh Nagar,2.69,19,26,0.984687
+10,Evening_Peak,2026-03-15 17:57,Alaknanda,0.0,33,33,1.0
+10,Evening_Peak,2026-03-15 17:57,Alipur,1.82,18,22,0.871097
+10,Evening_Peak,2026-03-15 17:57,Anand Vihar,0.0,39,39,1.0
+10,Evening_Peak,2026-03-15 17:57,Ashok Vihar,2.0,24,30,1.0
+10,Evening_Peak,2026-03-15 17:57,Badarpur,2.35,26,34,0.992783
+10,Evening_Peak,2026-03-15 17:57,Bali Nagar,3.33,20,30,0.999003
+10,Evening_Peak,2026-03-15 17:57,Bawana,0.0,36,36,1.0
+10,Evening_Peak,2026-03-15 17:57,Chanakyapuri,2.31,30,39,0.956228
+10,Evening_Peak,2026-03-15 17:57,Chandni Chowk,0.0,18,18,1.0
+10,Evening_Peak,2026-03-15 17:57,Chhattarpur,1.82,27,33,0.997314
+10,Evening_Peak,2026-03-15 17:57,Civil Lines,0.0,35,35,1.0
+10,Evening_Peak,2026-03-15 17:57,Connaught Place,2.08,19,24,1.0
+10,Evening_Peak,2026-03-15 17:57,Daryaganj,2.96,19,27,0.99698
+10,Evening_Peak,2026-03-15 17:57,Defence Colony,4.38,9,16,0.925783
+10,Evening_Peak,2026-03-15 17:57,Delhi Cantt,1.71,34,41,1.0
+10,Evening_Peak,2026-03-15 17:57,Dilshad Garden,0.0,27,27,1.0
+10,Evening_Peak,2026-03-15 17:57,Dwarka,2.12,26,33,1.0
+10,Evening_Peak,2026-03-15 17:57,East of Kailash,5.0,12,24,1.0
+10,Evening_Peak,2026-03-15 17:57,Gandhi Nagar,2.43,28,37,1.0
+10,Evening_Peak,2026-03-15 17:57,Geeta Colony,1.46,41,48,0.999666
+10,Evening_Peak,2026-03-15 17:57,Greater Kailash,2.76,21,29,1.0
+10,Evening_Peak,2026-03-15 17:57,Green Park,2.0,20,25,1.0
+10,Evening_Peak,2026-03-15 17:57,Hari Nagar,1.71,34,41,1.0
+10,Evening_Peak,2026-03-15 17:57,Hauz Khas,2.19,25,32,0.998647
+10,Evening_Peak,2026-03-15 17:57,IP Extension,2.61,17,23,0.993768
+10,Evening_Peak,2026-03-15 17:57,Janakpuri,3.06,25,36,1.0
+10,Evening_Peak,2026-03-15 17:57,Jangpura,0.0,46,46,1.0
+10,Evening_Peak,2026-03-15 17:57,Kalkaji,0.0,28,28,1.0
+10,Evening_Peak,2026-03-15 17:57,Kamla Nagar,3.64,14,22,0.981852
+10,Evening_Peak,2026-03-15 17:57,Kanjhawala,0.0,43,43,1.0
+10,Evening_Peak,2026-03-15 17:57,Karawal Nagar,3.68,12,19,0.874009
+10,Evening_Peak,2026-03-15 17:57,Karol Bagh,1.52,28,33,1.0
+10,Evening_Peak,2026-03-15 17:57,Kashmere Gate,1.54,33,39,1.0
+10,Evening_Peak,2026-03-15 17:57,Kirti Nagar,2.73,24,33,1.0
+10,Evening_Peak,2026-03-15 17:57,Lajpat Nagar,0.0,28,28,1.0
+10,Evening_Peak,2026-03-15 17:57,Laxmi Nagar,2.16,29,37,1.0
+10,Evening_Peak,2026-03-15 17:57,Lodhi Colony,0.0,29,29,1.0
+10,Evening_Peak,2026-03-15 17:57,Malviya Nagar,0.0,27,27,1.0
+10,Evening_Peak,2026-03-15 17:57,Mangolpuri,3.04,16,23,0.939348
+10,Evening_Peak,2026-03-15 17:57,Mayur Vihar,1.46,41,48,0.999666
+10,Evening_Peak,2026-03-15 17:57,Mehrauli,1.58,32,38,1.0
+10,Evening_Peak,2026-03-15 17:57,Model Town,2.22,28,36,1.0
+10,Evening_Peak,2026-03-15 17:57,Moti Bagh,2.75,29,40,1.0
+10,Evening_Peak,2026-03-15 17:57,Mukherjee Nagar,2.26,24,31,1.0
+10,Evening_Peak,2026-03-15 17:57,Munirka,1.32,33,38,1.0
+10,Evening_Peak,2026-03-15 17:57,Najafgarh,1.35,32,37,1.0
+10,Evening_Peak,2026-03-15 17:57,Narela,3.44,21,32,0.984277
+10,Evening_Peak,2026-03-15 17:57,Nehru Place,1.54,22,26,1.0
+10,Evening_Peak,2026-03-15 17:57,Okhla,0.0,54,54,1.0
+10,Evening_Peak,2026-03-15 17:57,Palam,1.35,32,37,1.0
+10,Evening_Peak,2026-03-15 17:57,Paschim Vihar,0.0,51,51,1.0
+10,Evening_Peak,2026-03-15 17:57,Patel Nagar,2.43,28,37,1.0
+10,Evening_Peak,2026-03-15 17:57,Pitampura,2.56,29,39,1.0
+10,Evening_Peak,2026-03-15 17:57,Preet Vihar,0.0,25,25,1.0
+10,Evening_Peak,2026-03-15 17:57,Punjabi Bagh,1.63,41,49,1.0
+10,Evening_Peak,2026-03-15 17:57,Rajouri Garden,3.67,19,30,1.0
+10,Evening_Peak,2026-03-15 17:57,RK Puram,2.22,21,27,1.0
+10,Evening_Peak,2026-03-15 17:57,Rohini,4.14,17,29,0.996466
+10,Evening_Peak,2026-03-15 17:57,Safdarjung,4.17,14,24,0.999936
+10,Evening_Peak,2026-03-15 17:57,Saket,3.33,16,24,1.0
+10,Evening_Peak,2026-03-15 17:57,Sarita Vihar,0.0,41,41,1.0
+10,Evening_Peak,2026-03-15 17:57,Shahdara,0.0,34,34,1.0
+10,Evening_Peak,2026-03-15 17:57,Shalimar Bagh,0.0,27,27,1.0
+10,Evening_Peak,2026-03-15 17:57,South Extension,1.59,37,44,1.0
+10,Evening_Peak,2026-03-15 17:57,Sunder Nagar,2.63,28,38,1.0
+10,Evening_Peak,2026-03-15 17:57,Tilak Nagar,3.33,20,30,0.999003
+10,Evening_Peak,2026-03-15 17:57,Uttam Nagar,3.67,19,30,1.0
+10,Evening_Peak,2026-03-15 17:57,Vasant Kunj,1.56,27,32,0.975653
+10,Evening_Peak,2026-03-15 17:57,Vasant Vihar,0.0,55,55,1.0
+10,Evening_Peak,2026-03-15 17:57,Vikas Puri,1.6,21,25,1.0
+10,Evening_Peak,2026-03-15 17:57,Vivek Vihar,0.0,29,29,1.0
+10,Evening_Peak,2026-03-15 17:57,Yamuna Vihar,4.44,10,18,0.90178
+11,Night,2026-03-15 22:55,Adarsh Nagar,0.8,23,25,0.984324
+11,Night,2026-03-15 22:55,Alaknanda,0.0,33,33,1.0
+11,Night,2026-03-15 22:55,Alipur,0.0,23,23,1.0
+11,Night,2026-03-15 22:55,Anand Vihar,0.0,39,39,1.0
+11,Night,2026-03-15 22:55,Ashok Vihar,0.0,30,30,1.0
+11,Night,2026-03-15 22:55,Badarpur,0.0,35,35,1.0
+11,Night,2026-03-15 22:55,Bali Nagar,0.0,29,29,1.0
+11,Night,2026-03-15 22:55,Bawana,0.0,36,36,1.0
+11,Night,2026-03-15 22:55,Chanakyapuri,0.0,39,39,1.0
+11,Night,2026-03-15 22:55,Chandni Chowk,0.0,18,18,1.0
+11,Night,2026-03-15 22:55,Chhattarpur,0.0,33,33,1.0
+11,Night,2026-03-15 22:55,Civil Lines,2.86,25,35,1.0
+11,Night,2026-03-15 22:55,Connaught Place,3.04,16,23,1.0
+11,Night,2026-03-15 22:55,Daryaganj,1.79,23,28,0.997446
+11,Night,2026-03-15 22:55,Defence Colony,2.94,12,17,0.880949
+11,Night,2026-03-15 22:55,Delhi Cantt,0.73,38,41,1.0
+11,Night,2026-03-15 22:55,Dilshad Garden,0.0,27,27,1.0
+11,Night,2026-03-15 22:55,Dwarka,0.0,32,32,1.0
+11,Night,2026-03-15 22:55,East of Kailash,1.74,19,23,1.0
+11,Night,2026-03-15 22:55,Gandhi Nagar,1.62,31,37,1.0
+11,Night,2026-03-15 22:55,Geeta Colony,0.0,48,48,1.0
+11,Night,2026-03-15 22:55,Greater Kailash,0.0,29,29,1.0
+11,Night,2026-03-15 22:55,Green Park,0.0,26,26,1.0
+11,Night,2026-03-15 22:55,Hari Nagar,0.73,38,41,1.0
+11,Night,2026-03-15 22:55,Hauz Khas,0.0,31,31,1.0
+11,Night,2026-03-15 22:55,IP Extension,0.45,21,22,0.990708
+11,Night,2026-03-15 22:55,Janakpuri,0.0,37,37,1.0
+11,Night,2026-03-15 22:55,Jangpura,0.0,46,46,1.0
+11,Night,2026-03-15 22:55,Kalkaji,1.07,25,28,1.0
+11,Night,2026-03-15 22:55,Kamla Nagar,0.0,23,23,1.0
+11,Night,2026-03-15 22:55,Kanjhawala,0.0,43,43,1.0
+11,Night,2026-03-15 22:55,Karawal Nagar,0.0,20,20,1.0
+11,Night,2026-03-15 22:55,Karol Bagh,0.0,34,34,1.0
+11,Night,2026-03-15 22:55,Kashmere Gate,0.0,39,39,1.0
+11,Night,2026-03-15 22:55,Kirti Nagar,0.0,33,33,1.0
+11,Night,2026-03-15 22:55,Lajpat Nagar,0.0,28,28,1.0
+11,Night,2026-03-15 22:55,Laxmi Nagar,1.43,30,35,1.0
+11,Night,2026-03-15 22:55,Lodhi Colony,0.0,29,29,1.0
+11,Night,2026-03-15 22:55,Malviya Nagar,0.0,27,27,1.0
+11,Night,2026-03-15 22:55,Mangolpuri,0.0,24,24,1.0
+11,Night,2026-03-15 22:55,Mayur Vihar,0.0,48,48,1.0
+11,Night,2026-03-15 22:55,Mehrauli,0.0,38,38,1.0
+11,Night,2026-03-15 22:55,Model Town,0.0,36,36,1.0
+11,Night,2026-03-15 22:55,Moti Bagh,1.22,36,41,1.0
+11,Night,2026-03-15 22:55,Mukherjee Nagar,0.0,31,31,1.0
+11,Night,2026-03-15 22:55,Munirka,0.0,36,36,1.0
+11,Night,2026-03-15 22:55,Najafgarh,0.0,37,37,1.0
+11,Night,2026-03-15 22:55,Narela,0.0,31,31,1.0
+11,Night,2026-03-15 22:55,Nehru Place,0.0,28,28,1.0
+11,Night,2026-03-15 22:55,Okhla,0.0,54,54,1.0
+11,Night,2026-03-15 22:55,Palam,0.0,37,37,1.0
+11,Night,2026-03-15 22:55,Paschim Vihar,0.0,51,51,1.0
+11,Night,2026-03-15 22:55,Patel Nagar,0.0,36,36,1.0
+11,Night,2026-03-15 22:55,Pitampura,0.0,38,38,1.0
+11,Night,2026-03-15 22:55,Preet Vihar,0.0,25,25,1.0
+11,Night,2026-03-15 22:55,Punjabi Bagh,0.0,50,50,1.0
+11,Night,2026-03-15 22:55,Rajouri Garden,0.0,30,30,1.0
+11,Night,2026-03-15 22:55,RK Puram,1.85,22,27,1.0
+11,Night,2026-03-15 22:55,Rohini,0.0,30,30,1.0
+11,Night,2026-03-15 22:55,Safdarjung,0.0,25,25,1.0
+11,Night,2026-03-15 22:55,Saket,0.0,23,23,1.0
+11,Night,2026-03-15 22:55,Sarita Vihar,0.0,41,41,1.0
+11,Night,2026-03-15 22:55,Shahdara,0.0,34,34,1.0
+11,Night,2026-03-15 22:55,Shalimar Bagh,0.0,27,27,1.0
+11,Night,2026-03-15 22:55,South Extension,0.0,44,44,1.0
+11,Night,2026-03-15 22:55,Sunder Nagar,0.0,38,38,1.0
+11,Night,2026-03-15 22:55,Tilak Nagar,0.0,29,29,1.0
+11,Night,2026-03-15 22:55,Uttam Nagar,0.0,30,30,1.0
+11,Night,2026-03-15 22:55,Vasant Kunj,1.25,28,32,0.975653
+11,Night,2026-03-15 22:55,Vasant Vihar,0.0,55,55,1.0
+11,Night,2026-03-15 22:55,Vikas Puri,0.0,26,26,1.0
+11,Night,2026-03-15 22:55,Vivek Vihar,0.0,29,29,1.0
+11,Night,2026-03-15 22:55,Yamuna Vihar,2.78,13,18,0.958073
+12,Morning_Peak,2026-03-16 08:52,Adarsh Nagar,2.31,20,26,0.968071
+12,Morning_Peak,2026-03-16 08:52,Alaknanda,1.56,27,32,1.0
+12,Morning_Peak,2026-03-16 08:52,Alipur,0.0,23,23,1.0
+12,Morning_Peak,2026-03-16 08:52,Anand Vihar,0.0,39,39,1.0
+12,Morning_Peak,2026-03-16 08:52,Ashok Vihar,0.0,30,30,1.0
+12,Morning_Peak,2026-03-16 08:52,Badarpur,2.35,26,34,0.951804
+12,Morning_Peak,2026-03-16 08:52,Bali Nagar,2.0,24,30,0.999825
+12,Morning_Peak,2026-03-16 08:52,Bawana,0.0,36,36,1.0
+12,Morning_Peak,2026-03-16 08:52,Chanakyapuri,1.79,32,39,0.956514
+12,Morning_Peak,2026-03-16 08:52,Chandni Chowk,0.0,18,18,1.0
+12,Morning_Peak,2026-03-16 08:52,Chhattarpur,0.0,33,33,1.0
+12,Morning_Peak,2026-03-16 08:52,Civil Lines,0.0,35,35,1.0
+12,Morning_Peak,2026-03-16 08:52,Connaught Place,0.0,24,24,1.0
+12,Morning_Peak,2026-03-16 08:52,Daryaganj,2.22,21,27,0.995727
+12,Morning_Peak,2026-03-16 08:52,Defence Colony,0.0,16,16,1.0
+12,Morning_Peak,2026-03-16 08:52,Delhi Cantt,2.44,31,41,1.0
+12,Morning_Peak,2026-03-16 08:52,Dilshad Garden,0.0,27,27,1.0
+12,Morning_Peak,2026-03-16 08:52,Dwarka,1.82,27,33,0.99654
+12,Morning_Peak,2026-03-16 08:52,East of Kailash,0.0,24,24,1.0
+12,Morning_Peak,2026-03-16 08:52,Gandhi Nagar,2.05,31,39,1.0
+12,Morning_Peak,2026-03-16 08:52,Geeta Colony,2.29,37,48,1.0
+12,Morning_Peak,2026-03-16 08:52,Greater Kailash,0.0,29,29,1.0
+12,Morning_Peak,2026-03-16 08:52,Green Park,1.6,21,25,1.0
+12,Morning_Peak,2026-03-16 08:52,Hari Nagar,2.68,30,41,1.0
+12,Morning_Peak,2026-03-16 08:52,Hauz Khas,2.12,26,33,0.998647
+12,Morning_Peak,2026-03-16 08:52,IP Extension,0.0,23,23,1.0
+12,Morning_Peak,2026-03-16 08:52,Janakpuri,0.0,37,37,1.0
+12,Morning_Peak,2026-03-16 08:52,Jangpura,0.0,46,46,1.0
+12,Morning_Peak,2026-03-16 08:52,Kalkaji,0.0,28,28,1.0
+12,Morning_Peak,2026-03-16 08:52,Kamla Nagar,1.74,19,23,0.993823
+12,Morning_Peak,2026-03-16 08:52,Kanjhawala,0.0,43,43,1.0
+12,Morning_Peak,2026-03-16 08:52,Karawal Nagar,0.0,20,20,1.0
+12,Morning_Peak,2026-03-16 08:52,Karol Bagh,0.0,34,34,1.0
+12,Morning_Peak,2026-03-16 08:52,Kashmere Gate,0.0,39,39,1.0
+12,Morning_Peak,2026-03-16 08:52,Kirti Nagar,0.0,33,33,1.0
+12,Morning_Peak,2026-03-16 08:52,Lajpat Nagar,1.43,24,28,1.0
+12,Morning_Peak,2026-03-16 08:52,Laxmi Nagar,0.0,36,36,1.0
+12,Morning_Peak,2026-03-16 08:52,Lodhi Colony,0.0,29,29,1.0
+12,Morning_Peak,2026-03-16 08:52,Malviya Nagar,0.0,27,27,1.0
+12,Morning_Peak,2026-03-16 08:52,Mangolpuri,0.0,24,24,1.0
+12,Morning_Peak,2026-03-16 08:52,Mayur Vihar,2.29,37,48,1.0
+12,Morning_Peak,2026-03-16 08:52,Mehrauli,1.32,33,38,1.0
+12,Morning_Peak,2026-03-16 08:52,Model Town,0.0,36,36,1.0
+12,Morning_Peak,2026-03-16 08:52,Moti Bagh,0.0,42,42,1.0
+12,Morning_Peak,2026-03-16 08:52,Mukherjee Nagar,0.0,31,31,1.0
+12,Morning_Peak,2026-03-16 08:52,Munirka,0.0,36,36,1.0
+12,Morning_Peak,2026-03-16 08:52,Najafgarh,0.0,37,37,1.0
+12,Morning_Peak,2026-03-16 08:52,Narela,1.94,25,31,0.974704
+12,Morning_Peak,2026-03-16 08:52,Nehru Place,1.85,22,27,1.0
+12,Morning_Peak,2026-03-16 08:52,Okhla,0.0,54,54,1.0
+12,Morning_Peak,2026-03-16 08:52,Palam,0.0,37,37,1.0
+12,Morning_Peak,2026-03-16 08:52,Paschim Vihar,0.0,51,51,1.0
+12,Morning_Peak,2026-03-16 08:52,Patel Nagar,1.89,30,37,0.999598
+12,Morning_Peak,2026-03-16 08:52,Pitampura,2.31,30,39,1.0
+12,Morning_Peak,2026-03-16 08:52,Preet Vihar,2.08,19,24,0.99
+12,Morning_Peak,2026-03-16 08:52,Punjabi Bagh,2.45,37,49,1.0
+12,Morning_Peak,2026-03-16 08:52,Rajouri Garden,0.0,30,30,1.0
+12,Morning_Peak,2026-03-16 08:52,RK Puram,0.0,28,28,1.0
+12,Morning_Peak,2026-03-16 08:52,Rohini,3.0,21,30,0.997201
+12,Morning_Peak,2026-03-16 08:52,Safdarjung,0.0,25,25,1.0
+12,Morning_Peak,2026-03-16 08:52,Saket,0.0,23,23,1.0
+12,Morning_Peak,2026-03-16 08:52,Sarita Vihar,2.25,31,40,0.967504
+12,Morning_Peak,2026-03-16 08:52,Shahdara,0.0,34,34,1.0
+12,Morning_Peak,2026-03-16 08:52,Shalimar Bagh,0.0,27,27,1.0
+12,Morning_Peak,2026-03-16 08:52,South Extension,1.16,38,43,1.0
+12,Morning_Peak,2026-03-16 08:52,Sunder Nagar,1.54,33,39,1.0
+12,Morning_Peak,2026-03-16 08:52,Tilak Nagar,2.0,24,30,1.0
+12,Morning_Peak,2026-03-16 08:52,Uttam Nagar,0.0,30,30,1.0
+12,Morning_Peak,2026-03-16 08:52,Vasant Kunj,1.56,27,32,0.975653
+12,Morning_Peak,2026-03-16 08:52,Vasant Vihar,0.0,55,55,1.0
+12,Morning_Peak,2026-03-16 08:52,Vikas Puri,0.0,26,26,1.0
+12,Morning_Peak,2026-03-16 08:52,Vivek Vihar,0.0,29,29,1.0
+12,Morning_Peak,2026-03-16 08:52,Yamuna Vihar,0.0,18,18,1.0
+13,Afternoon,2026-03-16 13:03,Adarsh Nagar,3.85,16,26,0.977198
+13,Afternoon,2026-03-16 13:03,Alaknanda,2.42,25,33,1.0
+13,Afternoon,2026-03-16 13:03,Alipur,1.36,19,22,0.933706
+13,Afternoon,2026-03-16 13:03,Anand Vihar,1.0,36,40,1.0
+13,Afternoon,2026-03-16 13:03,Ashok Vihar,1.94,25,31,1.0
+13,Afternoon,2026-03-16 13:03,Badarpur,1.71,29,35,0.996188
+13,Afternoon,2026-03-16 13:03,Bali Nagar,3.67,19,30,1.0
+13,Afternoon,2026-03-16 13:03,Bawana,0.0,36,36,1.0
+13,Afternoon,2026-03-16 13:03,Chanakyapuri,1.58,32,38,0.970103
+13,Afternoon,2026-03-16 13:03,Chandni Chowk,3.33,12,18,1.0
+13,Afternoon,2026-03-16 13:03,Chhattarpur,1.52,28,33,0.999223
+13,Afternoon,2026-03-16 13:03,Civil Lines,0.0,35,35,1.0
+13,Afternoon,2026-03-16 13:03,Connaught Place,0.0,24,24,1.0
+13,Afternoon,2026-03-16 13:03,Daryaganj,3.93,17,28,0.996374
+13,Afternoon,2026-03-16 13:03,Defence Colony,2.5,12,16,0.928127
+13,Afternoon,2026-03-16 13:03,Delhi Cantt,1.71,34,41,1.0
+13,Afternoon,2026-03-16 13:03,Dilshad Garden,2.96,19,27,0.96
+13,Afternoon,2026-03-16 13:03,Dwarka,1.88,26,32,1.0
+13,Afternoon,2026-03-16 13:03,East of Kailash,2.61,17,23,1.0
+13,Afternoon,2026-03-16 13:03,Gandhi Nagar,2.7,27,37,1.0
+13,Afternoon,2026-03-16 13:03,Geeta Colony,1.67,40,48,1.0
+13,Afternoon,2026-03-16 13:03,Greater Kailash,4.83,15,29,1.0
+13,Afternoon,2026-03-16 13:03,Green Park,3.6,16,25,1.0
+13,Afternoon,2026-03-16 13:03,Hari Nagar,1.71,34,41,1.0
+13,Afternoon,2026-03-16 13:03,Hauz Khas,2.81,23,32,0.998647
+13,Afternoon,2026-03-16 13:03,IP Extension,0.0,23,23,1.0
+13,Afternoon,2026-03-16 13:03,Janakpuri,2.78,26,36,1.0
+13,Afternoon,2026-03-16 13:03,Jangpura,0.0,46,46,1.0
+13,Afternoon,2026-03-16 13:03,Kalkaji,0.0,28,28,1.0
+13,Afternoon,2026-03-16 13:03,Kamla Nagar,3.64,14,22,0.99
+13,Afternoon,2026-03-16 13:03,Kanjhawala,0.0,43,43,1.0
+13,Afternoon,2026-03-16 13:03,Karawal Nagar,4.0,12,20,0.778748
+13,Afternoon,2026-03-16 13:03,Karol Bagh,0.0,34,34,1.0
+13,Afternoon,2026-03-16 13:03,Kashmere Gate,2.05,31,39,1.0
+13,Afternoon,2026-03-16 13:03,Kirti Nagar,2.73,24,33,1.0
+13,Afternoon,2026-03-16 13:03,Lajpat Nagar,0.0,28,28,1.0
+13,Afternoon,2026-03-16 13:03,Laxmi Nagar,1.94,29,36,1.0
+13,Afternoon,2026-03-16 13:03,Lodhi Colony,0.0,29,29,1.0
+13,Afternoon,2026-03-16 13:03,Malviya Nagar,3.46,17,26,1.0
+13,Afternoon,2026-03-16 13:03,Mangolpuri,2.61,17,23,0.97802
+13,Afternoon,2026-03-16 13:03,Mayur Vihar,1.67,40,48,1.0
+13,Afternoon,2026-03-16 13:03,Mehrauli,2.11,30,38,1.0
+13,Afternoon,2026-03-16 13:03,Model Town,2.78,26,36,1.0
+13,Afternoon,2026-03-16 13:03,Moti Bagh,2.68,30,41,1.0
+13,Afternoon,2026-03-16 13:03,Mukherjee Nagar,1.94,25,31,1.0
+13,Afternoon,2026-03-16 13:03,Munirka,2.11,30,38,1.0
+13,Afternoon,2026-03-16 13:03,Najafgarh,1.62,31,37,0.997862
+13,Afternoon,2026-03-16 13:03,Narela,2.26,24,31,0.987398
+13,Afternoon,2026-03-16 13:03,Nehru Place,3.85,16,26,1.0
+13,Afternoon,2026-03-16 13:03,Okhla,1.11,48,54,1.0
+13,Afternoon,2026-03-16 13:03,Palam,0.0,37,37,1.0
+13,Afternoon,2026-03-16 13:03,Paschim Vihar,1.37,44,51,1.0
+13,Afternoon,2026-03-16 13:03,Patel Nagar,2.43,28,37,1.0
+13,Afternoon,2026-03-16 13:03,Pitampura,2.56,29,39,1.0
+13,Afternoon,2026-03-16 13:03,Preet Vihar,2.92,17,24,0.99
+13,Afternoon,2026-03-16 13:03,Punjabi Bagh,3.47,32,49,1.0
+13,Afternoon,2026-03-16 13:03,Rajouri Garden,3.33,20,30,1.0
+13,Afternoon,2026-03-16 13:03,RK Puram,1.48,23,27,1.0
+13,Afternoon,2026-03-16 13:03,Rohini,3.33,20,30,1.0
+13,Afternoon,2026-03-16 13:03,Safdarjung,3.2,17,25,0.998749
+13,Afternoon,2026-03-16 13:03,Saket,3.75,15,24,1.0
+13,Afternoon,2026-03-16 13:03,Sarita Vihar,1.25,35,40,0.969386
+13,Afternoon,2026-03-16 13:03,Shahdara,2.29,27,35,0.998712
+13,Afternoon,2026-03-16 13:03,Shalimar Bagh,2.69,19,26,0.999136
+13,Afternoon,2026-03-16 13:03,South Extension,3.49,28,43,1.0
+13,Afternoon,2026-03-16 13:03,Sunder Nagar,2.37,29,38,1.0
+13,Afternoon,2026-03-16 13:03,Tilak Nagar,3.67,19,30,1.0
+13,Afternoon,2026-03-16 13:03,Uttam Nagar,3.33,20,30,1.0
+13,Afternoon,2026-03-16 13:03,Vasant Kunj,2.5,24,32,0.975653
+13,Afternoon,2026-03-16 13:03,Vasant Vihar,0.0,55,55,1.0
+13,Afternoon,2026-03-16 13:03,Vikas Puri,2.4,19,25,1.0
+13,Afternoon,2026-03-16 13:03,Vivek Vihar,0.0,29,29,1.0
+13,Afternoon,2026-03-16 13:03,Yamuna Vihar,4.44,10,18,0.891372
