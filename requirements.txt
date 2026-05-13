@@ -8,3 +8,4 @@ streamlit-folium
 osmnx
 joblib
 requests
+plotly
