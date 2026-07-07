@@ -245,20 +245,6 @@ Feature Scaling
 
 ---
 
-# 📸 Screenshots
-
-> Add your screenshots here.
-
-Example:
-
-```
-assets/homepage.png
-assets/dashboard.png
-assets/clusters.png
-```
-
----
-
 # 🔮 Future Improvements
 
 - Live traffic updates
